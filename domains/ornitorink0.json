@@ -1,0 +1,12 @@
+{
+  "description": "Ornitorink0 personal portfolio",
+  "repo": "https://github.com/Ornitorink0/Portfolio",
+  "owner": {
+    "username": "Ornitorink0",
+    "email": "ornitorink0.dev@gmail.com"
+  },
+  "record": {
+    "CNAME": "ornitorink0.netlify.app"
+  },
+  "proxied": true
+}
